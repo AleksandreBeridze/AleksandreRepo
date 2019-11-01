@@ -1,7 +1,7 @@
-using system
+using System
 
 
-public static void main(string[] args)
+public static void Main(string[] args)
 {
     Console.WriteLine("hello.")
     Console.ReadKey();
