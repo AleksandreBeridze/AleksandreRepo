@@ -1,8 +1,8 @@
 using system
 
 
-public static void main
+public static void main(string[] args)
 {
-    console.writeline("hello aleksandre")
- 
+    Console.WriteLine("hello.")
+    Console.ReadKey();
 }
